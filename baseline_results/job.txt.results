@@ -1,0 +1,5 @@
+24.7Scoring 'best' goldfile = wsd2-master/data/test/fr/job_gold.txt sysfile = baseline_results/job.txt
+Total = 50, attempted = 50
+precision = 24.73, recall = 24.73
+Total with mode 21 attempted 21
+Mode precision = 0.00, Mode recall = 0.00

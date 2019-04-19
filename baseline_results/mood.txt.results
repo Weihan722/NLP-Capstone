@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/mood_gold.txt sysfile = baseline_results/mood.txt
+Total = 50, attempted = 50
+precision = 19.38, recall = 19.38
+Total with mode 3 attempted 3
+Mode precision = 0.00, Mode recall = 0.00

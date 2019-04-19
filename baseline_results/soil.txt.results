@@ -1,0 +1,5 @@
+0.0Scoring 'best' goldfile = wsd2-master/data/test/fr/soil_gold.txt sysfile = baseline_results/soil.txt
+Total = 50, attempted = 50
+precision = 0.00, recall = 0.00
+Total with mode 8 attempted 8
+Mode precision = 0.00, Mode recall = 0.00

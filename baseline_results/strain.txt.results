@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/strain_gold.txt sysfile = baseline_results/strain.txt
+Total = 50, attempted = 50
+precision = 17.85, recall = 17.85
+Total with mode 22 attempted 22
+Mode precision = 81.82, Mode recall = 81.82

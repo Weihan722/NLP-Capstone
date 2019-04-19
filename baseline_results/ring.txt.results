@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/ring_gold.txt sysfile = baseline_results/ring.txt
+Total = 50, attempted = 50
+precision = 16.80, recall = 16.80
+Total with mode 29 attempted 29
+Mode precision = 20.69, Mode recall = 20.69

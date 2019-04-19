@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/range_gold.txt sysfile = baseline_results/range.txt
+Total = 50, attempted = 50
+precision = 3.44, recall = 3.44
+Total with mode 9 attempted 9
+Mode precision = 0.00, Mode recall = 0.00

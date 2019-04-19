@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/mission_gold.txt sysfile = baseline_results/mission.txt
+Total = 50, attempted = 50
+precision = 47.16, recall = 47.16
+Total with mode 26 attempted 26
+Mode precision = 30.77, Mode recall = 30.77

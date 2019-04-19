@@ -1,0 +1,5 @@
+33.41Scoring 'best' goldfile = wsd2-master/data/test/fr/side_gold.txt sysfile = baseline_results/side.txt
+Total = 50, attempted = 50
+precision = 33.41, recall = 33.41
+Total with mode 16 attempted 16
+Mode precision = 37.50, Mode recall = 37.50

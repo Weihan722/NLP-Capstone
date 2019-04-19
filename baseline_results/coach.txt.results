@@ -1,0 +1,5 @@
+Scoring 'best' goldfile = wsd2-master/data/test/fr/coach_gold.txt sysfile = baseline_results/coach.txt
+Total = 50, attempted = 50
+precision = 6.90, recall = 6.90
+Total with mode 43 attempted 43
+Mode precision = 2.33, Mode recall = 2.33
